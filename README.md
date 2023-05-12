@@ -1,10 +1,8 @@
-- 👋 Hi, I’m @deborahlisboa
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-deborahlisboa/deborahlisboa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hello, I'm @deborahlisboa
+- 👀 I am interested in an internship in the field of Information Technology
+- 🌱 I am currently learning JavaScript, TypeScript and Dart
+- 💞️ I'm looking to collaborate on HTML5 and CSS3, as I already have some knowledge about these items.
+- 📫 How to reach me:
+      LinkedIn:  https://www.linkedin.com/in/deborahlisboat/
+      Email:  deborahlisboa07@gmail.com 
+      Instagram:  https://www.instagram.com/deborahlisboa_/
